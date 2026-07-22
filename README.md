@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=👋+Hey!+I'm+Udaya+Giri;Software+Engineer+in+Progress;Java+Developer;AI+%26+Data+Science+Student;Building+Real-World+Projects;Dream.+Code.+Repeat." />
+
 
 <br>
 
