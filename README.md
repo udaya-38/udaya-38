@@ -4,7 +4,7 @@
 
 <br>
 
-<img src=<img src="https://media.tenor.com/9n0xN7Y6J6gAAAAC/luffy-smile.gif" width="650"/>
+<img src="https://media.tenor.com/9n0xN7Y6J6gAAAAC/luffy-smile.gif" width="650"/>
 
 # ⚡ Udaya Giri
 
